@@ -1,2 +1,3 @@
 Hello, Git
-everyone..
+everyone.
+good morning.
